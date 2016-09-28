@@ -8,6 +8,14 @@ Designed as a bright theme with pastel 'retro groove' colors and light/dark mode
    [jellybeans]: https://github.com/nanotech/jellybeans.vim
    [solarized]: http://ethanschoonover.com/solarized
 
+Differences from morhetz/gruvbox
+--------------------------------
+
+This is a fork of [morhetz/gruvbox](https://github.com/morhetz/gruvbox) that attempts to make the Haskell and PureScript highlighting a bit more consistent (like `let` and `do` having the same colour and ``backticked`` functions having the same colour as operators) and colourful (to make certain things like type constructors and type signatures stand out more). See the discussion at the [original pull request](https://github.com/morhetz/gruvbox/pull/134).
+
+### Comparison with the original
+![Differences](http://i.imgur.com/LPXnv2i.png)
+
 Attention
 ---------
 
