@@ -1183,12 +1183,12 @@ hi! link markdownIdDeclaration markdownLinkText
 
 hi! link haskellType GruvboxYellow
 
-hi! link haskellIdentifier GruvboxFg1
+hi! link haskellIdentifier GruvboxGreen
 
 hi! link haskellSeparator GruvboxFg3
 hi! link haskellDelimiter GruvboxFg3
-hi! link haskellOperators GruvboxFg3
-hi! link haskellBacktick GruvboxFg3
+hi! link haskellOperators GruvboxBlue
+hi! link haskellBacktick haskellOperators
 
 hi! link haskellStatement GruvboxOrange
 
